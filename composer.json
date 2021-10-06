@@ -1,0 +1,13 @@
+{
+    "name": "piesocket/piesocket-php",
+    "description": "PieSocket PHP REST Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anand Singh",
+            "email": "anand@piesocket.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
