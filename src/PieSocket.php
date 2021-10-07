@@ -41,7 +41,7 @@ class PieSocket{
     ];
 
     curl_setopt_array($curl, array(
-      CURLOPT_URL => "https://".$this->config['cluster_id'].".piesocket.com/api/publish",
+      CURLOPT_URL => "https://".$this->config['cluster_id'].".piesocket.com/api/publish?src=phpsdk",
       CURLOPT_RETURNTRANSFER => true,
       CURLOPT_CUSTOMREQUEST => "POST",
       CURLOPT_POSTFIELDS => json_encode($post_fields),

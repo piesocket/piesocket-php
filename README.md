@@ -4,7 +4,9 @@ PieSocket PHP REST client
 ## Installation
 
 Install PieSocket PHP SDK
-`composer require piesocket/piesocket-php`
+```
+composer require piesocket/piesocket-php
+```
 
 ## Intrgrations
 
