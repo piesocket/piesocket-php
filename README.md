@@ -4,7 +4,6 @@ PieSocket PHP REST client
 ## Configure
 
 ### Laravel
-Configure post-autload scropt. 
 In `composer.json` add the following `post-autoload-dump` at the top of other scripts.
  
 ```
