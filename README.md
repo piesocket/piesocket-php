@@ -7,7 +7,7 @@ Skip to [installation](#installation)
 
 ### Laravel
 #### Quick start
-Use the starter project: 
+Use the starter project: [piesocket/laravel-broadcasting-starter](https://github.com/piesocket/laravel-broadcasting-starter)
 
 ### Manual
 In `composer.json` add the following `post-autoload-dump` script at the top.
