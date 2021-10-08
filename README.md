@@ -4,7 +4,7 @@ PieSocket PHP REST client
 ## Configure
 
 ### Laravel
-In `composer.json` add the following `post-autoload-dump` at the top of other scripts.
+In `composer.json` add the following `post-autoload-dump` script at the top.
  
 ```
 \\PieSocket\\Integrations\\Installer::setupLaravel
