@@ -6,6 +6,10 @@ PieSocket PHP REST client
 Skip to [installation](#installation) 
 
 ### Laravel
+#### Quick start
+Use the starter project: 
+
+### Manual
 In `composer.json` add the following `post-autoload-dump` script at the top.
  
 ```
@@ -31,11 +35,11 @@ Add PieSocket driver in `connections` array of `config\broadcasting.php` alongsi
 ]
 ```
 
-Documentation: [Laravel Broadcasting with PieSocket](https://www.piesocket.com/blog/laravel-broadcasting)
+Documentation: [Laravel Broadcasting with PieSocket](https://www.piesocket.com/blog/laravel-echo-broadcasting/)
 
 ## Installation
 
-Make sure you have compelted the configuration for your integration (optional).
+Make sure you have completed the configuration for your integration (optional).
 
 ```
 composer require piesocket/piesocket-php
