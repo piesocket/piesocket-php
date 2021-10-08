@@ -18,6 +18,7 @@ Example:
         "@php artisan package:discover --ansi"
     ]
 ```
+Documentation: [Laravel Broadcasting with PieSocket](https://www.piesocket.com/blog/laravel-broadcasting)
 
 # Install
 
