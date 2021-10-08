@@ -249,7 +249,7 @@ class BroadcastManager implements FactoryContract
         return new PieSocketBroadcaster(new PieSocket([
             "api_key" => $config['key'],
             "api_secret" => $config['secret'],
-            "cluster_id" => $config['app_id']
+            "cluster_id" => $config['cluster_id']
         ]));
     }
 
